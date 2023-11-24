@@ -33,6 +33,10 @@ p a {
 p a:hover {
 	color:#1bb5ac;
 }
+#thank{
+	height: 500px;
+	align-self: center;
+}
 /*------------------------- Header ------------------------*/
 #header {
 	background:url(../images/bg-header.jpg);
